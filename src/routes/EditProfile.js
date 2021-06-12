@@ -1,3 +1,8 @@
 import React from "react";
 
-export default () => <span>Edit</span>;
+const EditProfile = () => (
+  <div>
+    <span>Edit</span>
+  </div>
+);
+export default EditProfile;
